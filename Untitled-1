@@ -1,0 +1,16 @@
+USer
+    id
+
+Post
+    id
+    content
+
+Comment
+    id
+    Parent: PostId | Cmnt id
+    content
+    userId
+
+    
+
+    
